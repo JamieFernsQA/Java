@@ -1,4 +1,4 @@
-package ExcerciseWorkbookExcercise2;
+package ExcerciseWorkbookAssignment;
 
 public class Excercise2 {
 	
